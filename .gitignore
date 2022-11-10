@@ -1,3 +1,4 @@
 /kalmoocpy/
 Ravaud_Kalmooc_*.pdf
 /*.zip
+__pycache__/
